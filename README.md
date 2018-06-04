@@ -13,3 +13,8 @@ Sales Performance,
 Online Gross Profit,
 Geo Analysis
 
+# Getting Started
+Qliksense Desktop
+
+# Acknowledgments
+Harwareandro ailesi
